@@ -1,0 +1,11 @@
+[
+    {
+          "id": "sample-001",
+          "make": "Ford",
+          "model": "Mustang",
+          "yearStart": 1965,
+          "yearEnd": 1966,
+          "image": "https://example.com/images/sample-001.png",
+          "alt": "front grill and headlights"
+    }
+]
